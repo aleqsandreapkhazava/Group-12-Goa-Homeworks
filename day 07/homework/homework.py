@@ -1,0 +1,7 @@
+age1 = input("please enter you age")
+age2 = input("please enter you age")
+age3 = input("please enter you age")
+age4 = input("please enter you age")
+age5 = input("please enter you age")
+hw =(age1 * age2)
+print(age1 * age2 // age3 + age4 + age5 + hw)

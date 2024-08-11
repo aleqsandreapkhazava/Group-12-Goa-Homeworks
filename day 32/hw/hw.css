@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    color: rebeccapurple;
+}
+
+h3{
+    color: brown;
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+    background-color: cyan;
+}
+
+.gyat{
+    text-align: center;
+
+
+}
