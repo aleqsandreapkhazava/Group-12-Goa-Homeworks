@@ -1,0 +1,1 @@
+print("day 36 wasnt shown in discord")

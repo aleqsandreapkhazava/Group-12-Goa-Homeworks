@@ -1,0 +1,18 @@
+/* /* /* .block{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    animation: change 7s infinite;
+} 
+
+@keyframes change{
+    0% {height: 50px; width:50px; background-color:green;} 
+
+    50% {height: 300px; width:300px; background-color: blue } 
+
+    100% {height: 50px; width: 50px; background-color:black;} 
+} */
+
+/* შექმენით ელემენტი რომელსაც მისცმთ ბურთის ფორმას, შემდეგ keyframeების გამოყენებით თქვენი დავალებაა რომ ეს ბურთი შემოატაროთ საიტს ანუ რომ დაიწყება მარცხენა ზემო კუთხეში უნდა შეეხოს ყველა კუთხეს და დაბრუნდეს იმ კუთხეში(დაგჭირდებათ transform) */ 
+
+

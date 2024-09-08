@@ -1,0 +1,39 @@
+.z{
+    background-color: blueviolet;
+    position: absolute;
+    width: 500px;
+    height:250px;
+    border-radius:15px;
+    font-family:Arial;
+    text-align: center;
+    font-size: large;
+    bottom:170px;
+
+}
+
+.z h4{
+    text-align: center;
+}
+
+.b{
+    position: absolute;
+    bottom:310px
+}
+
+.x{
+        background-color: blueviolet;
+        position: absolute;
+        width: 500px;
+        height:250px;
+        border-radius:15px;
+        font-family:Arial;
+        text-align: center;
+        font-size: large;
+        bottom:120px;
+        left:550px    
+    
+}
+
+.x h4{
+    text-align: center;
+}

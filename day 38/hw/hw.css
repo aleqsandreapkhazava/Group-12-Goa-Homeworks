@@ -1,1 +1,198 @@
-jdadasdjakldsaldajdkajdlkajdlkajdlajdaklkdal;dhadal;dhadkadadajdiadadj!
+h1{
+    font-family: arial;
+    color:blue;
+    position: absolute;
+    top:20px;
+    left:240px;
+    font-size:25px
+}
+
+h1 span{
+    color: white;
+    background-color:blue;
+    border-radius: 5px;
+}
+
+
+.z ul {
+    list-style: none;
+    display: flex;
+    gap: 30.000001px;
+    font-family:'Franklin Gothic medium';
+    position: absolute;
+    top:35px;
+    left:780px
+
+}
+
+button{
+    background-color:white;
+    border: 1;
+    border-color:blue;
+    border-radius: 25px;
+    height:30px;
+    width: 80px;
+    color: blue;
+    position: absolute;
+    right:100px;
+    top:49.09px;
+}
+
+h3{
+    font-family: Arial;
+    position: absolute;
+    right:250px;
+    top:20px;
+    
+}
+
+.b input{
+    width: 450px;
+    height: 40px;
+    position:absolute;
+    left:230px;
+    top:320px;
+    
+}
+
+
+h2{
+    font-family:arial;
+    position: absolute;
+    color:darkorange;
+    top:95px;
+    left:240px;
+    font-size:40px;
+}
+
+.b label{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 15px;
+    top:285px;
+    left:230px
+}
+
+.n label{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 15px;
+    top:385px;
+    left:230px
+}
+
+.n input{
+    width: 450px;
+    height: 40px;
+    position:absolute;
+    left:230px;
+    top:420px;
+    
+}
+
+.k{
+    position: absolute;
+    font-size:14px;
+    font-family:arial;
+    color:blue;
+    bottom:315px;
+    left:230px
+}
+
+.w{
+    position: absolute;
+    background-color:darkblue;
+    color:white;
+    font-family: arial;
+    border-radius:25px;
+    width: 470px;
+    height:50px;
+    text-align: center;
+    bottom:240px;
+    left:220px;
+    
+
+    
+}
+
+.w p{
+    position: absolute;
+    left:215px;
+    top:0px
+    
+}
+
+.p{
+    position: absolute;
+    right:75px;
+    bottom:90px
+}
+
+.the{
+    position: absolute;
+    left:825px;
+    top:16px
+}
+
+.al{
+    position: absolute;
+    left:906px;
+    top:20px
+}
+.ab{
+    position: absolute;
+    left:990px;
+    top:15px
+}
+
+.ad{
+    position: absolute;
+    left:1070px;
+    top:18px
+}
+
+.ga{
+    position: absolute;
+    left:1190px;
+    top:18px
+}
+
+
+h4{
+    position: absolute;
+    font-family: arial;
+    bottom:175px;
+    left:450px
+}
+
+
+.lobianimiyvarsmarashaurmajobiaramartlaogondasiprocentiimenara{
+    font-family: arial;
+    color:grey;
+    position: absolute;
+    bottom:145px;
+    font-size: 13px;
+    left:250px
+}
+
+.s{
+    
+    position: absolute;
+    background-color:white;
+    font-family: arial;
+    border: 1.4px solid;
+    border-radius:25px;
+    text-align: center;
+    width: 470px;
+    height:50px;
+    bottom:40px;
+    left:220px;
+    border-color:black;
+    
+}
+
+.dabodi{
+    position: absolute;
+    bottom:49px;
+    left:335px
+}

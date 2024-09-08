@@ -1,0 +1,107 @@
+h1{
+    position:absolute;
+    font-family: arial;
+    font-size: 65px;
+    left:180px;
+    top:0px
+}
+
+ul{
+    position: absolute;
+    display: flex;
+    list-style: none;
+    gap:60px;
+    right:100px;
+    font-family: arial;
+    top:55px
+
+}
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    position: absolute;
+    bottom:450px;
+    left:100px
+}
+.z{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom:390px;
+    left:100px
+}
+
+.x input{
+    position: absolute;
+    width: 320px;
+    bottom:330.000000000001px;
+    left:98px;
+    height:40px
+}
+
+button{
+    background-color: blue;
+    color:white;
+    border-radius:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 46px;
+    border-color:blue;
+    text-shadow: none;
+    width: 200px;
+    position: absolute;
+    bottom:330.0000000000001px;
+    left:450px;
+
+}
+
+.c{
+    position: absolute;
+    left:86px;
+    top:30px
+}
+
+.mainphoto{
+    position: absolute;
+    right:100px;
+    top:170px
+}
+
+.text2{
+    position: absolute;
+    font-family: arial;
+    top:1000px;
+    font-size:35px;
+    left:70px
+}
+
+.as{
+    position: absolute;
+    top:1050px;
+    right:100px
+}
+
+.minitext{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top:1100px;
+    left:70px
+}
+
+.review{
+    width:  340px;
+    height:200px;
+    background-color: lightgrey;
+    border-radius:10px;
+    font-family: arial;
+    font-size:15px;
+    
+    position: absolute;
+    top:1270px;
+    left:70px;
+
+}
+
+.review span{
+    font-size: 10px;
+}

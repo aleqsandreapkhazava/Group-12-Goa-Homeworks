@@ -1,5 +1,31 @@
-.th{
-    text-align: center;
-    color: black;
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    color:white;
+}
+ 
+
+th{
+    text-align: left;
+    border-collapse: collapse;
+    background-color: red;
+    font-family: Arial;
+}
+
+td{
+    background-color: lightgray;
+}
+
+.c{
     background-color: white;
+    font-family: Arial;
+}
+
+.z{
+    background-color: white;
+    font-family:Arial;
+}
+
+.x{
+    gra
 }

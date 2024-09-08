@@ -1,0 +1,48 @@
+.z{
+    font-family: Arial;
+    animation: sigma 2s forwards;
+    color: red;
+    position: absolute;
+    left:700px;
+    top:100px
+
+}
+
+*{
+    background-color: orange;
+}
+
+
+@keyframes sigma{
+    0%{opacity: 0.3; transform: translate(0px, -600px);}
+    100%{transform: translate(0, 0);}
+}
+
+.x{
+    color:green;
+    font-family: Arial;
+    position: absolute;
+    left:450px;
+    bottom:450px;
+    animation: ligma 3s forwards;
+}
+
+@keyframes ligma{
+    0%{opacity: 0,6; transform: translate(-100000px, -600px); }
+    100%{opacity:0,5 ; transform: translate(0,0);}
+}
+
+
+.c{
+    color: blue;
+    position: absolute;
+    left:700px;
+    bottom:200px;
+    animation: goa-t 4s forwards;
+
+}
+
+@keyframes goa-t{
+    0%{opacity: 0,1; transform: translate(100000px, -600px); }
+    100%{opacity:0,4; transform: translate(0,0);}
+}
