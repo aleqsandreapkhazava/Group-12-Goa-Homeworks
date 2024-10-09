@@ -1,0 +1,142 @@
+body{
+    background-color: #fafafa;
+}
+
+
+.maintext h1{
+    color:#848484;
+    text-align: center;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.maintext h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+    ;
+}
+
+.maintext p{
+    text-align: center;
+    color:#848484;
+    font-family: arial;
+}
+
+.supervisor{
+    position: absolute;
+    height:250px;
+    width:350px;
+    background-color: #ececec;
+    bottom:150px;
+    left:250px;
+    border-radius: 5px;
+}
+
+.supervisor h3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:40px
+}
+
+.supervisor p{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:50px;
+    margin-left:40px
+
+}
+
+.img1 img{
+    position: absolute;
+    bottom:170px;
+    left:490px
+}
+
+
+.TB{
+    position: absolute;
+    height:250px;
+    width:350px;
+    background-color: #ececec;
+    left:650px;
+    border-radius: 5px;
+}
+
+.TB h3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:40px
+}
+
+
+.TB p{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:50px;
+    margin-left:40px;
+}
+
+.TB img{
+    margin-left: 230px;
+    margin-top:150px;
+}
+
+.karma{
+    position: absolute;
+    height:250px;
+    width:350px;
+    background-color: #ececec;
+    border-radius: 5px;
+    left:650px;
+    bottom:20px
+}
+
+
+.karma h3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:40px
+}
+
+.karma p{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:50px;
+    margin-left:40px;
+}
+
+.karma img{
+    margin-left: 230px;
+    margin-top:150px;
+}
+
+
+.calculator{
+    position: absolute;
+    height:250px;
+    width:350px;
+    background-color: #ececec;
+    border-radius: 5px;
+    bottom:150px;
+    left:1050px
+    
+}
+
+.calculator h3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:40px
+}
+
+
+.calculator p{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:50px;
+    margin-left:40px;
+}
+
+.calculator img{
+    margin-left: 230px;
+    margin-top:150px;
+}

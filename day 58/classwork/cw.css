@@ -1,0 +1,112 @@
+body{
+    background-color: #e0f1e7;
+}
+
+
+.maindiv{
+    background-color: #ffff;
+    border-radius: 10px;
+    height: 700px;
+    width:800px;
+    position: absolute;
+    left:450px;
+    top:50px;
+}
+
+
+
+.maindiv h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:60px;
+    margin-top:40px;
+
+}
+
+.lable2 input{
+    height:40px;
+    width: 300px;
+    margin-top:10px;
+    border-radius: 5px;
+    
+}
+
+.lable2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:60px
+
+}
+
+
+.lable3 input{
+    height:40px;
+    width: 300px;
+    margin-top:10px;
+    border-radius: 5px;
+    
+}
+
+.lable3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:450px;
+    position: absolute;
+    top:96.5px;
+    right:50px
+
+}
+
+
+.lable4 input{
+    height:40px;
+    width: 680px;
+    margin-top:10px;
+    border-radius: 5px;
+    
+}
+
+.lable4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:450px;
+    position: absolute;
+    top:220px;
+    right:50px
+
+}
+
+
+
+.lable5{
+    border:1px;
+    
+}
+
+
+
+.lable6 input{
+    height:125px;
+    width: 680px;
+    border-radius:5px;
+    margin-top:15px
+}
+
+
+.lable6{
+    position: absolute;
+    top:350px;
+    font-family:arial;
+    left:60px;
+}
+
+
+.button{
+    background-color: #0c7d69;
+    border-radius: 5px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    height:50px;
+    position:absolute;
+    bottom:70px;
+    width:700px;
+    left:55px;
+    text-align: center;
+    
+}

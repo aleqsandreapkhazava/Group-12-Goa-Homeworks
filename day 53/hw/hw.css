@@ -1,0 +1,27 @@
+.divblock{
+    width: 250px;
+    height:250px;
+    background-color: brown;
+    animation: change 5s;
+}
+
+@keyframes change{
+    0%{background-color:red; width: 250px; height: 250px;}
+    100%{background-color: blue;}
+}
+
+.divblock1{
+    width: 250px;
+    height:250px;
+    background-color: brown;
+    animation: change1 3s;
+    border-radius: 50%;
+}
+
+
+@keyframes change1{
+    0%{    width: 250px;
+        height:250px;
+        background-color: brown; left:0px; bottom:0px}
+    100%{position:absolute ; left:500px; bottom:200px}
+}

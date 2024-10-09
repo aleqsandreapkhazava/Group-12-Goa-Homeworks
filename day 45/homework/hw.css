@@ -1,0 +1,52 @@
+.title{
+    background-color: black;
+    width: 100%;
+    height:150px;
+    display: flex;
+    color:white;
+    font-size:25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+
+}
+
+
+
+.maintext h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.lebron{
+    
+    background-color:white;
+    top:250px;
+    position: absolute;
+    bottom: 150px;
+    
+    left:840px
+}
+  
+.football{
+    position: absolute;
+    bottom:150px;
+    left:550px;
+    top:250px;
+    
+}
+
+
+
+.fot{
+    font-family:arial;
+    font-size: 15px;
+    position: absolute;
+    top:295px;
+    
+    
+   
+}
+

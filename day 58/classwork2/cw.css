@@ -1,0 +1,87 @@
+
+body{
+    display: flex;
+    background-color: #e0f1e7;
+    align-items: center;
+    justify-content: center;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+    height: 500px;
+    width: 450px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(78, 78, 78);
+}
+
+#FLabel{
+    display: flex;
+    gap: 115px;
+}
+
+#FLInput{
+    display: flex;
+    gap: 15px;
+    height: 25px;
+}
+
+#Fname, #Lname, #Email, #MSG, #submit{
+    border-radius: 3px;
+    border-color: lightgrey;
+}
+
+#Email{
+    width: 350px;
+}
+
+#MSG{
+    width: 350px;
+    height: 70px;
+}
+
+#submit{
+    width: 350px;
+    height: 40px;
+    background-color: #0c7d6a;
+    border-color: #0c7d6a;
+    color: white;
+    margin-top: 15px;
+}
+
+#button{
+    margin-left: 50px;
+}
+
+#QS{
+    display: flex;
+    gap: 10px;
+}
+
+#SRDiv, #GQDiv{
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 170px;
+    height: 25px;
+}
+
+
+@media screen and (max-width:600px){
+    #main{
+        height:700px;
+        font-family: arial;
+    }
+
+    #FLInput{
+        height:50px;
+        
+    }
+}

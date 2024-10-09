@@ -5,6 +5,7 @@
 }
 
 
+
 .title{
     background-color: black;
     width: 99%;
@@ -17,7 +18,6 @@
     align-items: center;
 
 }
-
 .photo{
 
     display: flex;
