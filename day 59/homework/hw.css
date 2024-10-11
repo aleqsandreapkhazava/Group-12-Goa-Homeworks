@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-image:url(bg-pattern-top-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1{
+    color:#522052;
+    font-size:50px;
+    font-family:arial;
+    position: absolute;
+    left:220px;
+    top:60px;
+}
+
+
+p{
+    color:#8d7b8a;
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:275px;
+    left:220px
+    
+}
+
+
+.R1{
+    width: 390px;
+    height:250px;
+    background-color: #511f50;
+    color:white;
+    border-radius: 9px;
+    font-family: arial;
+    position: absolute;
+    bottom:110px;
+    left: 220px;
+    top:370px
+
+
+}
+
+.R1 h3, span{
+    margin-left:100px;
+    margin-top: 20px;
+}
+
+.R1 img{
+    border-radius: 50%;
+    width:50px;
+    margin-top:20px;
+    position: absolute;
+    margin-left:33px;
+
+}
+
+.R1 h4{
+    margin-left:33px;
+    margin-top:20px
+
+}
+
+
+
+.S1{
+    height:50px;
+    width:400px;
+    background-color: #f7f2f8;
+    border-radius:7px;
+    position: absolute;
+    right:230px;
+    top:150px;
+}
+
+
+
+.S1 img{
+    margin-left:10px;
+    margin-top:18px;
+
+}
+
+.S1 h3{
+    color:#663f65;
+    font-family: arial;
+    position: absolute;
+    margin-left:150px;
+    position: absolute;
+    bottom:10px
+    
+}
+
+
+
+
+
+
+
+
+.S2{
+    height:50px;
+    width:400px;
+    background-color: #f7f2f8;
+    border-radius:7px;
+    position: absolute;
+    right:200px;
+    top:250px;
+}
+
+
+
+.S2 img{
+    margin-left:10px;
+    margin-top:18px;
+
+}
+
+.S2 h3{
+    color:#663f65;
+    font-family: arial;
+    position: absolute;
+    margin-left:150px;
+    position: absolute;
+    bottom:10px
+    
+}
+
+
+
+
+
+
+.S3{
+    height:50px;
+    width:400px;
+    background-color: #f7f2f8;
+    border-radius:7px;
+    position: absolute;
+    right:170px;
+    top:330px;
+}
+
+
+
+.S3 img{
+    margin-left:10px;
+    margin-top:18px;
+
+}
+
+.S3 h3{
+    color:#663f65;
+    font-family: arial;
+    position: absolute;
+    margin-left:150px;
+    position: absolute;
+    bottom:10px
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px){
+    body{
+        align-items: column;
+    }
+  
+    h1{
+        font-size:50px;
+        top:40px;
+        text-align: center;
+        
+    }
+
+    p{
+        top:250px;
+        text-align: center;
+        left:200px
+    }
+
+
+    .S1{
+        position: relative;
+        bottom:20px;
+        left:2px
+
+        
+    }
+}
+
+
+
+

@@ -1,0 +1,49 @@
+:root{
+    --main-color:blue;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+
+.div1{
+    background-color: var(--main-color);
+    height: 200px;
+    width: 100px;
+}
+
+.div1:hover{
+    transform: scale(25deg);
+}
+
+.div2{
+    background-color: var(--main-color);
+    height: 200px;
+    width: 100px;
+}
+
+
+.div2:hover{
+    -webkit-transform: scale(100px);
+}
+
+.div3{
+    background-color: var(--main-color);
+    height: 200px;
+    width: 100px;
+}
+
+.div3:hover{
+    -moz-transform: scale(21px);
+}
+
+.div4{
+    background-color: var(--main-color);
+    height: 200px;
+    width: 100px;
+}
+
+.div4:hover{
+    -ms-transform: scale{200px};
+}
