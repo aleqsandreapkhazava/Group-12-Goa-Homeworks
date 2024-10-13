@@ -1,0 +1,91 @@
+.categories ul{
+    font-size: 26px;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    flex-direction: row;
+    color:white;
+    font-family: arial;
+    position: absolute;
+
+    
+}
+
+.categories ul span{
+    font-size: 30px;
+}
+
+.categories img{
+    
+
+}
+
+.categories{
+    max-width: 500px;
+    max-height:500px;
+
+}
+
+
+.text1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:55px;
+    right:100px
+}
+
+.text1 h1{
+    font-size: 40px;
+}
+
+.text1 h3{
+    color: #cacaca;
+}
+
+.img1 img{
+    position: absolute;
+    top:380px;
+    right:410px
+}
+
+
+.img2 img{
+    position: absolute;
+    bottom:0px;
+    left:0px;
+}
+
+.text2{
+    position: absolute;
+    font-family: arial;
+    left:550px;
+    bottom:30px
+}
+
+.text2 h1{
+    font-size: 25px;
+}
+
+.text2 h3{
+    color:#cacaca
+}
+
+
+.img3{
+    position: absolute;
+    right:0px;
+    bottom:0px
+}
+
+.text1 h2{
+    position: absolute;
+    bottom:0px
+}
+
+
+.a img{
+    position: absolute;
+    right:480px;
+    top:410px
+}
+
