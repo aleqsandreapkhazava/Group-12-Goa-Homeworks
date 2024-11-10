@@ -1,0 +1,1 @@
+print("FIMGA PHOTO IS THE HOMEWORK")
