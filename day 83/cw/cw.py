@@ -1,0 +1,1 @@
+print("all codewarses were checked by the mentor. ")
